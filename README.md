@@ -5,7 +5,7 @@
 
 The main file is generate.py, the main method in which generates the plot and figures from the paper.
 This code was not written, designed, optimized or tested for any use or application besides research. 
-Commerical use is not allowed.
+Commercial use is not allowed.
 
 *Acknowledgments:*
 The base code we used for generating an LLM response token-by-token is adapted from the following repository
